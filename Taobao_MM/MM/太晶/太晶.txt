@@ -1,0 +1,4 @@
+name: 太晶
+age: 28
+city: 广州市
+career: 平面模特 演员 通告艺人

@@ -1,0 +1,4 @@
+name: 悠佳儿
+age: 30
+city: 泉州市
+career: 平面模特

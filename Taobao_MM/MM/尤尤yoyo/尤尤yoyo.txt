@@ -1,0 +1,4 @@
+name: 尤尤yoyo
+age: 24
+city: 广州市
+career: 平面模特

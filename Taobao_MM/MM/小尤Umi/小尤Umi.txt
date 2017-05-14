@@ -1,0 +1,4 @@
+name: 小尤Umi
+age: 29
+city: 北京市
+career: 平面模特 演员

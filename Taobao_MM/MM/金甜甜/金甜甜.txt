@@ -1,0 +1,4 @@
+name: 金甜甜
+age: 1
+city: 杭州市
+career: 平面模特 演员 歌手

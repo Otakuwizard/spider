@@ -1,0 +1,4 @@
+name: 陶学洲
+age: 29
+city: 杭州市
+career: 平面模特

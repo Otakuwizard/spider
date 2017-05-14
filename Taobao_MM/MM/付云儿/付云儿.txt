@@ -1,0 +1,4 @@
+name: 付云儿
+age: 29
+city: 上海市
+career: 平面模特

@@ -1,0 +1,4 @@
+name: 陈小颠
+age: 24
+city: 广州市
+career: 平面模特 演员 设计师

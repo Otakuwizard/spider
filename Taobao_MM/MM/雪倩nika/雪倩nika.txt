@@ -1,0 +1,4 @@
+name: 雪倩nika
+age: 26
+city: 杭州市
+career: 平面模特

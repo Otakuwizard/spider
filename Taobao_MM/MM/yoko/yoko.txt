@@ -1,0 +1,4 @@
+name: yoko
+age: 26
+city: 南昌市
+career: 平面模特

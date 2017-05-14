@@ -1,0 +1,4 @@
+name: Anna安娜
+age: 30
+city: 北京市
+career: 星女郎
