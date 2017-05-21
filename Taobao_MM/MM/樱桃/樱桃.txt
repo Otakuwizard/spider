@@ -1,4 +1,0 @@
-name: 樱桃
-age: 26
-city: 北京市
-career: 平面模特 舞蹈者

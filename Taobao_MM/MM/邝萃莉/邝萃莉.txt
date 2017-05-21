@@ -1,4 +1,0 @@
-name: 邝萃莉
-age: 26
-city: 广州市
-career: 平面模特 化妆师

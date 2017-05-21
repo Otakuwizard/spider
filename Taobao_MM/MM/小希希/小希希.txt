@@ -1,4 +1,0 @@
-name: 小希希
-age: 24
-city: 杭州市
-career: 平面模特

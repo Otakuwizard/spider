@@ -1,4 +1,0 @@
-name: 顾运
-age: 25
-city: 杭州市
-career: 学生

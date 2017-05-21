@@ -1,4 +1,0 @@
-name: 关晰文
-age: 26
-city: 广州市
-career: 平面模特

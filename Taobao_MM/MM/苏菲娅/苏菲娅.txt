@@ -1,4 +1,0 @@
-name: 苏菲娅
-age: 28
-city: 杭州市
-career: 平面模特

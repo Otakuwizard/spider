@@ -1,4 +1,0 @@
-name: 一粉媚儿
-age: 32
-city: 北京市
-career: 平面模特

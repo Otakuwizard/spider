@@ -1,4 +1,0 @@
-name: 胡胡
-age: 27
-city: 杭州市
-career: 平面模特

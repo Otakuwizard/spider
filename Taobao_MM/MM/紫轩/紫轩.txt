@@ -1,4 +1,0 @@
-name: 紫轩
-age: 30
-city: 杭州市
-career: 平面模特 舞蹈者

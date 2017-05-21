@@ -7,6 +7,7 @@ class Tool:
     replace_td = re.compile('<td>')
     replace_p = re.compile('<p.*?>')
     replace_br = re.compile('<br><br>|<br>')
+    replace_space = re.compile(r'\&nbsp;')
     remove_other_tags = re.compile('<.*?>')
     
     def replace(self, x):
@@ -17,5 +18,7 @@ class Tool:
         x = re.sub(self.replace_p, '\n  ', x)
         x = re.sub(self.replace_br, '\n', x)
         x = re.sub(self.remove_other_tags, '', x)
-        
-        return x.strip()
+        x = re.sub(self.replace_space, '\n', x)
+        x = x.strip()
+        print('striped: ' + x)
+        return x

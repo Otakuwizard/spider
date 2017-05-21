@@ -1,4 +1,0 @@
-name: 又又Yona
-age: 25
-city: 上海市
-career: 平面模特

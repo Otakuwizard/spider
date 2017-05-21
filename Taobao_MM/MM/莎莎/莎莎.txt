@@ -1,4 +1,0 @@
-name: 莎莎
-age: 27
-city: 成都市
-career: 学生 平面模特 歌手

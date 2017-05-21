@@ -1,4 +1,0 @@
-name: 木偶
-age: 29
-city: 温州市
-career: 平面模特

@@ -1,4 +1,0 @@
-name: 梁元元
-age: 29
-city: 武汉市
-career: 平面模特 舞蹈者

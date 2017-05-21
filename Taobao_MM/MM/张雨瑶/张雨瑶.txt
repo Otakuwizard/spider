@@ -1,4 +1,0 @@
-name: 张雨瑶
-age: 29
-city: 杭州市
-career: 平面模特 演员

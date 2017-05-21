@@ -1,4 +1,0 @@
-name: 水灵
-age: 26
-city: 嘉兴市
-career: 设计师

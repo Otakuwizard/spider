@@ -1,4 +1,0 @@
-name: 阿朵拉
-age: 27
-city: 上海市
-career: 平面模特 歌手 管理

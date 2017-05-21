@@ -1,4 +1,0 @@
-name: 小小苏
-age: 26
-city: 株洲市
-career: 平面模特

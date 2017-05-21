@@ -1,4 +1,0 @@
-name: 刘丹
-age: 25
-city: 杭州市
-career: 平面模特

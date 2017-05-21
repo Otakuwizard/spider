@@ -1,4 +1,0 @@
-name: 莉莎
-age: 30
-city: 北京市
-career: 平面模特

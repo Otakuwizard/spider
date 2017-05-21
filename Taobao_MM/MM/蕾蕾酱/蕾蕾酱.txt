@@ -1,4 +1,0 @@
-name: 蕾蕾酱
-age: 26
-city: 杭州市
-career: 平面模特

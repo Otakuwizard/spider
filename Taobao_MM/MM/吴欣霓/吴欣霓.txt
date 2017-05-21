@@ -1,4 +1,0 @@
-name: 吴欣霓
-age: 25
-city: 广州市
-career: 平面模特

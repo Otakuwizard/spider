@@ -1,4 +1,0 @@
-name: 滕雨佳
-age: 25
-city: 杭州市
-career: 平面模特 演员 店主

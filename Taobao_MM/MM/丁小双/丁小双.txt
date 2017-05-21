@@ -1,4 +1,0 @@
-name: 丁小双
-age: 29
-city: 嘉兴市
-career: 平面模特
