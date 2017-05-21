@@ -55,6 +55,7 @@ class Spider:
         item = re.search(pattern, page_html)
         if not item:
             return None
+        # remove duplicate urls
         desc = self.tool.replace(item.group(1))
         return desc
         
